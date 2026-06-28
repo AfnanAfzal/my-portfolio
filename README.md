@@ -1,3 +1,7 @@
+## Live Website
+
+https://afnanafzal.github.io/my-portfolio/
+
 # Afnan Afzal — Portfolio Website
 
 A modern and responsive personal portfolio website developed to present my technical background, featured projects, skills, and professional profile.
